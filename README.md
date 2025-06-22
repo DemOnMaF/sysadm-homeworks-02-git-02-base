@@ -51,11 +51,32 @@
 https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагаемые варианты для начала работы в репозитории в секции
 `Command line instructions`. 
 1. Запомните вывод команды `git remote -v`.
+<details>
+<summary>Вывод</summary>
+
+![image](img/GitLab06.png)
+
+</details>
+
 1. Из-за того, что это будет наш дополнительный репозиторий, ни один вариант из перечисленных в инструкции (на странице 
 вновь созданного репозитория) нам не подходит. Поэтому добавляем этот репозиторий, как дополнительный `remote`, к созданному
 репозиторию в рамках предыдущего домашнего задания:
 `git remote add gitlab https://gitlab.com/YOUR_LOGIN/devops-netology.git`.
+<details>
+<summary>Вывод</summary>
+
+![image](img/GitLab07.png)
+
+</details>
+
 1. Отправьте изменения в новый удалённый репозиторий `git push -u gitlab main`.
+<details>
+<summary>Вывод</summary>
+
+![image](img/GitLab08.png)
+
+</details>
+
 1. Обратите внимание, как изменился результат работы команды `git remote -v`.
 
 #### Как изменить видимость репозитория в  GitLab — сделать его публичным 
