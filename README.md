@@ -185,14 +185,43 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 Давайте посмотрим, как будет выглядеть история коммитов при создании веток. 
 
 1. Переключитесь обратно на ветку `main`, которая должна быть связана с веткой `main` репозитория на `github`.
+<details>
+<summary>Вывод</summary>
+
+![image](img/001.png)
+
+</details>
+
 1. Посмотрите лог коммитов и найдите хеш коммита с названием `Prepare to delete and move`, который был создан в пределах предыдущего домашнего задания. 
+<details>
+<summary>Вывод</summary>
+
+![image](img/002.png)
+
+![image](img/002.1.png)
+
+</details>
+
 1. Выполните `git checkout` по хешу найденного коммита. 
+<details>
+<summary>Вывод</summary>
+
+![image](img/003.png)
+
+</details>
+
 1. Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`.
 1. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
 1. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network. 
 1. Теперь измените содержание файла `README.md`, добавив новую строчку.
-1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
+1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/DemOnMaF/devops-netology/network. 
 и как изменится вывод команды `git log`.
+<details>
+<summary>Вывод</summary>
+
+![image](img/004.png)
+
+</details>
 
 ## Задание 4. Упрощаем себе жизнь
 
