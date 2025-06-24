@@ -93,7 +93,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 ### Bitbucket* (задание со звёздочкой) 
 
 Это самостоятельное задание, его выполнение необязательно.
-____
+
 <details>
 Теперь необходимо проделать всё то же самое с [Bitbucket](https://bitbucket.org/). 
 
@@ -139,6 +139,8 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать. 
 </details>
+
+---
 
 ## Задание 2. Теги
 
