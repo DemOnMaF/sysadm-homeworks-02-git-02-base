@@ -162,17 +162,17 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 </details>
 
 1. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
-    * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
+    * в GitHub — https://github.com/DemOnMaF/devops-netology/tags;
     <details>
-    <summary>Вывод</summary>
+    <summary>Ответ</summary>
 
     ![image](img/Теги03github.png)
 
     </details>
     
-    * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
+    * в GitLab — https://gitlab.com/DemOnMaF/devops-netology/-/tags;
     <details>
-    <summary>Вывод</summary>
+    <summary>Ответ</summary>
 
     ![image](img/Теги04gitlab.png)
 
